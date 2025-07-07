@@ -1,0 +1,1043 @@
+
+.icon-about {
+	background-image: url('png/about.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-alarm-clock {
+	background-image: url('png/alarm-clock.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-allianz-logo-positive {
+	background-image: url('png/allianz-logo-positive.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-allianz-logo {
+	background-image: url('png/allianz-logo.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-app {
+	background-image: url('png/app.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-arrow-down {
+	background-image: url('png/arrow-down.png');
+	background-repeat: no-repeat;
+}
+
+
+.hero-text-link:before,
+.icon-arrow-right-blue {
+	background-image: url('png/arrow-right-blue.png');
+	background-repeat: no-repeat;
+}
+
+
+.breadcrumbs li:not(:last-child):after,
+.icon-arrow-right-grey {
+	background-image: url('png/arrow-right-grey.png');
+	background-repeat: no-repeat;
+}
+
+
+.hero-text-link.white:before,
+.icon-arrow-right-white {
+	background-image: url('png/arrow-right-white.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-arrow-up {
+	background-image: url('png/arrow-up.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-assist {
+	background-image: url('png/assist.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-benefits {
+	background-image: url('png/benefits.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-blog {
+	background-image: url('png/blog.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-boat {
+	background-image: url('png/boat.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-breakdown-assist {
+	background-image: url('png/breakdown-assist.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-business {
+	background-image: url('png/business.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-calculator-graph {
+	background-image: url('png/calculator-graph.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-calculator {
+	background-image: url('png/calculator.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-calendar {
+	background-image: url('png/calendar.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-car {
+	background-image: url('png/car.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-changes {
+	background-image: url('png/changes.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-chart {
+	background-image: url('png/chart.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-chat {
+	background-image: url('png/chat.png');
+	background-repeat: no-repeat;
+}
+
+
+.alert.notification:before,
+.icon-circle-alert {
+	background-image: url('png/circle-alert.png');
+	background-repeat: no-repeat;
+}
+
+
+.hero-icon-link:before,
+.icon-circle-arrow-right-blue {
+	background-image: url('png/circle-arrow-right-blue.png');
+	background-repeat: no-repeat;
+}
+
+
+.hero-icon-link.white:before, .hero.button:before,
+.icon-circle-arrow-right-white {
+	background-image: url('png/circle-arrow-right-white.png');
+	background-repeat: no-repeat;
+}
+
+
+.secondary.hero.button:before,
+.icon-circle-arrow-right {
+	background-image: url('png/circle-arrow-right.png');
+	background-repeat: no-repeat;
+}
+
+
+.notice-board-list .event:before,
+.icon-circle-calendar {
+	background-image: url('png/circle-calendar.png');
+	background-repeat: no-repeat;
+}
+
+
+.check-list li:before ,
+.icon-circle-check-benefit {
+	background-image: url('png/circle-check-benefit.png');
+	background-repeat: no-repeat;
+}
+
+
+.success.notification:before,
+.icon-circle-check-success {
+	background-image: url('png/circle-check-success.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-circle-facebook {
+	background-image: url('png/circle-facebook.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-circle-google {
+	background-image: url('png/circle-google.png');
+	background-repeat: no-repeat;
+}
+
+
+.info-list li:before, .info.notification:before,
+.icon-circle-info {
+	background-image: url('png/circle-info.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-circle-linkedin {
+	background-image: url('png/circle-linkedin.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-circle-myallianz {
+	background-image: url('png/circle-myallianz.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-circle-null-grey {
+	background-image: url('png/circle-null-grey.png');
+	background-repeat: no-repeat;
+}
+
+
+.notice-board-list .opinion:before,
+.icon-circle-pen {
+	background-image: url('png/circle-pen.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-circle-plus-benefit {
+	background-image: url('png/circle-plus-benefit.png');
+	background-repeat: no-repeat;
+}
+
+
+.notice-board-list li:before,
+.icon-circle-star {
+	background-image: url('png/circle-star.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-circle-twitter {
+	background-image: url('png/circle-twitter.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-circle-user {
+	background-image: url('png/circle-user.png');
+	background-repeat: no-repeat;
+}
+
+
+.x-list li:before ,
+.icon-circle-x-red {
+	background-image: url('png/circle-x-red.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-circle-youtube {
+	background-image: url('png/circle-youtube.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-claims {
+	background-image: url('png/claims.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-community {
+	background-image: url('png/community.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-contact {
+	background-image: url('png/contact.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-cs-icon-car-home-pet-equals-prize {
+	background-image: url('png/cs-icon-car-home-pet-equals-prize.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-cs-icon-car-home-pet-prize {
+	background-image: url('png/cs-icon-car-home-pet-prize.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-diamond {
+	background-image: url('png/diamond.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-documents {
+	background-image: url('png/documents.png');
+	background-repeat: no-repeat;
+}
+
+
+.anchor.button:before,
+.icon-down-white {
+	background-image: url('png/down-white.png');
+	background-repeat: no-repeat;
+}
+
+
+.secondary.anchor.button:before, .white.anchor.button:before,
+.icon-down {
+	background-image: url('png/down.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-euro {
+	background-image: url('png/euro.png');
+	background-repeat: no-repeat;
+}
+
+
+.notepad-menu.external-links .notepad:before,
+.icon-external-white {
+	background-image: url('png/external-white.png');
+	background-repeat: no-repeat;
+}
+
+
+.external-links-nav a:before,
+.icon-external {
+	background-image: url('png/external.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-faq {
+	background-image: url('png/faq.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-filter {
+	background-image: url('png/filter.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-flip-chart-graph {
+	background-image: url('png/flip-chart-graph.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-graph {
+	background-image: url('png/graph.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-home {
+	background-image: url('png/home.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-horse {
+	background-image: url('png/horse.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-hr {
+	background-image: url('png/hr.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-jigsaw-piece {
+	background-image: url('png/jigsaw-piece.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-logout {
+	background-image: url('png/logout.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-mail {
+	background-image: url('png/mail.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-menu-close {
+	background-image: url('png/menu-close.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-menu {
+	background-image: url('png/menu.png');
+	background-repeat: no-repeat;
+}
+
+
+.is-active .accordion-title:before, .is-active.show-more-btn:after,
+.icon-minus {
+	background-image: url('png/minus.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-myallianz-logo {
+	background-image: url('png/myallianz-logo.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-myallianz {
+	background-image: url('png/myallianz.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-ndbx-accounting-bills-1 {
+	background-image: url('png/ndbx-accounting-bills-1.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-ndbx-bike {
+	background-image: url('png/ndbx-bike.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-ndbx-camera {
+	background-image: url('png/ndbx-camera.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-ndbx-check {
+	background-image: url('png/ndbx-check.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-ndbx-disability-hearing-aid {
+	background-image: url('png/ndbx-disability-hearing-aid.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-ndbx-expensive-objects-jewelery {
+	background-image: url('png/ndbx-expensive-objects-jewelery.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-ndbx-glasses-sun-circle {
+	background-image: url('png/ndbx-glasses-sun-circle.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-ndbx-headphones-human {
+	background-image: url('png/ndbx-headphones-human.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-ndbx-house-storm-flood {
+	background-image: url('png/ndbx-house-storm-flood.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-ndbx-house-storm {
+	background-image: url('png/ndbx-house-storm.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-ndbx-modern-music-bass-guitar {
+	background-image: url('png/ndbx-modern-music-bass-guitar.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-ndbx-money-banknote {
+	background-image: url('png/ndbx-money-banknote.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-ndbx-phone-call {
+	background-image: url('png/ndbx-phone-call.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-ndbx-sports {
+	background-image: url('png/ndbx-sports.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-ndbx-tablet-ipad-apps {
+	background-image: url('png/ndbx-tablet-ipad-apps.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-ndbx-thief {
+	background-image: url('png/ndbx-thief.png');
+	background-repeat: no-repeat;
+}
+
+
+.banner.arts .notepad:after, .arts.notepad:after,
+.icon-notepad-arts {
+	background-image: url('png/notepad-arts.png');
+	background-repeat: no-repeat;
+}
+
+
+.banner.assist .notepad:after, .assist.notepad:after,
+.icon-notepad-assist {
+	background-image: url('png/notepad-assist.png');
+	background-repeat: no-repeat;
+}
+
+
+.dropdown-pane.boat .notepad:after, .banner.boat .notepad:after, .boat.notepad:after, .cu .notepad:after,
+.icon-notepad-boat {
+	background-image: url('png/notepad-boat.png');
+	background-repeat: no-repeat;
+}
+
+
+.banner.brokers .notepad:after, .brokers.notepad:after, .brokers .notepad:after, .sf .notepad:after,
+.icon-notepad-brokers {
+	background-image: url('png/notepad-brokers.png');
+	background-repeat: no-repeat;
+}
+
+
+.dropdown-pane.business .notepad:after, .banner.business .notepad:after, .business.notepad:after,
+.icon-notepad-business {
+	background-image: url('png/notepad-business.png');
+	background-repeat: no-repeat;
+}
+
+
+.dropdown-pane.car .notepad:after, .banner.car .notepad:after, .car.notepad:after,
+.icon-notepad-car {
+	background-image: url('png/notepad-car.png');
+	background-repeat: no-repeat;
+}
+
+
+.banner.communities .notepad:after, .communities.notepad:after, .cu .notepad:after,
+.icon-notepad-communities {
+	background-image: url('png/notepad-communities.png');
+	background-repeat: no-repeat;
+}
+
+
+.banner.corporate .notepad:after, .corporate.notepad:after,
+.icon-notepad-corporate {
+	background-image: url('png/notepad-corporate.png');
+	background-repeat: no-repeat;
+}
+
+
+.banner.cultural .notepad:after, .cultural.notepad:after,
+.icon-notepad-cultural {
+	background-image: url('png/notepad-cultural.png');
+	background-repeat: no-repeat;
+}
+
+
+.banner.customers .notepad:after, .customers.notepad:after,
+.icon-notepad-customers {
+	background-image: url('png/notepad-customers.png');
+	background-repeat: no-repeat;
+}
+
+
+.banner.direct .notepad:after, .direct.notepad:after, .ptsb .notepad:after,
+.icon-notepad-direct {
+	background-image: url('png/notepad-direct.png');
+	background-repeat: no-repeat;
+}
+
+
+.notepad:after,
+.icon-notepad-grey {
+	background-image: url('png/notepad-grey.png');
+	background-repeat: no-repeat;
+}
+
+
+.banner.holiday-home .notepad:after, .holiday-home.notepad:after,
+.icon-notepad-holiday-home {
+	background-image: url('png/notepad-holiday-home.png');
+	background-repeat: no-repeat;
+}
+
+
+.dropdown-pane.home .notepad:after, .banner.home .notepad:after, .home.notepad:after,
+.icon-notepad-home {
+	background-image: url('png/notepad-home.png');
+	background-repeat: no-repeat;
+}
+
+
+.dropdown-pane.horse .notepad:after, .banner.horse .notepad:after, .horse.notepad:after,
+.icon-notepad-horse {
+	background-image: url('png/notepad-horse.png');
+	background-repeat: no-repeat;
+}
+
+
+.dropdown-pane.landlord .notepad:after, .banner.landlord .notepad:after, .landlord.notepad:after,
+.icon-notepad-landlord {
+	background-image: url('png/notepad-landlord.png');
+	background-repeat: no-repeat;
+}
+
+
+.dropdown-pane.pet .notepad:after, .banner.pet .notepad:after, .pet.notepad:after,
+.icon-notepad-pet {
+	background-image: url('png/notepad-pet.png');
+	background-repeat: no-repeat;
+}
+
+
+.banner.red .notepad:after, .red.notepad:after, .ebs .notepad:after,
+.icon-notepad-red {
+	background-image: url('png/notepad-red.png');
+	background-repeat: no-repeat;
+}
+
+
+.banner.renters .notepad:after, .renters.notepad:after,
+.icon-notepad-renters {
+	background-image: url('png/notepad-renters.png');
+	background-repeat: no-repeat;
+}
+
+
+.dropdown-pane.schools .notepad:after, .banner.schools .notepad:after, .schools.notepad:after,
+.icon-notepad-schools {
+	background-image: url('png/notepad-schools.png');
+	background-repeat: no-repeat;
+}
+
+
+.banner.sports .notepad:after, .sports.notepad:after,
+.icon-notepad-sports {
+	background-image: url('png/notepad-sports.png');
+	background-repeat: no-repeat;
+}
+
+
+.banner.taxi .notepad:after, .taxi.notepad:after,
+.icon-notepad-taxi {
+	background-image: url('png/notepad-taxi.png');
+	background-repeat: no-repeat;
+}
+
+
+.banner.team .notepad:after, .team.notepad:after,
+.icon-notepad-team {
+	background-image: url('png/notepad-team.png');
+	background-repeat: no-repeat;
+}
+
+
+.dropdown-pane.travel .notepad:after, .banner.travel .notepad:after, .travel.notepad:after,
+.icon-notepad-travel {
+	background-image: url('png/notepad-travel.png');
+	background-repeat: no-repeat;
+}
+
+
+.banner.van .notepad:after, .van.notepad:after,
+.icon-notepad-van {
+	background-image: url('png/notepad-van.png');
+	background-repeat: no-repeat;
+}
+
+
+.white.notepad:after,
+.icon-notepad-white {
+	background-image: url('png/notepad-white.png');
+	background-repeat: no-repeat;
+}
+
+
+.banner.youth .notepad:after, .youth.notepad:after,
+.icon-notepad-youth {
+	background-image: url('png/notepad-youth.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-office {
+	background-image: url('png/office.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-padlock {
+	background-image: url('png/padlock.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-payments {
+	background-image: url('png/payments.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-pen-writing {
+	background-image: url('png/pen-writing.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-pet {
+	background-image: url('png/pet.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-phone-call {
+	background-image: url('png/phone-call.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-phone {
+	background-image: url('png/phone.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-piggy-bank {
+	background-image: url('png/piggy-bank.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-plus-menu {
+	background-image: url('png/plus-menu.png');
+	background-repeat: no-repeat;
+}
+
+
+.accordion-title:before, .show-more-btn:after,
+.icon-plus {
+	background-image: url('png/plus.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-policy {
+	background-image: url('png/policy.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-prize {
+	background-image: url('png/prize.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-property-building {
+	background-image: url('png/property-building.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-property-sale {
+	background-image: url('png/property-sale.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-pyramid {
+	background-image: url('png/pyramid.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-resources {
+	background-image: url('png/resources.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-retail-register {
+	background-image: url('png/retail-register.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-retail-store {
+	background-image: url('png/retail-store.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-schools {
+	background-image: url('png/schools.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-search {
+	background-image: url('png/search.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-stack-chart {
+	background-image: url('png/stack-chart.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-star-rating-42-reverse {
+	background-image: url('png/star-rating-42-reverse.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-star-rating-42 {
+	background-image: url('png/star-rating-42.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-star-rating-43-reverse {
+	background-image: url('png/star-rating-43-reverse.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-star-rating-43 {
+	background-image: url('png/star-rating-43.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-star-rating-44-reverse {
+	background-image: url('png/star-rating-44-reverse.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-star-rating-44 {
+	background-image: url('png/star-rating-44.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-star {
+	background-image: url('png/star.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-sterling {
+	background-image: url('png/sterling.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-thumbs-up {
+	background-image: url('png/thumbs-up.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-trash {
+	background-image: url('png/trash.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-travel {
+	background-image: url('png/travel.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-up {
+	background-image: url('png/up.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-user {
+	background-image: url('png/user.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-van {
+	background-image: url('png/van.png');
+	background-repeat: no-repeat;
+}
+
+
+
+.icon-weathersafe {
+	background-image: url('png/weathersafe.png');
+	background-repeat: no-repeat;
+}
+
+
